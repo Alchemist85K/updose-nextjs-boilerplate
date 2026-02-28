@@ -23,6 +23,7 @@ git diff
 Run the project's lint and format commands before committing.
 
 - If the project has lint or format commands, run them. Auto-fix when possible (lint --fix, format). If unfixable errors remain, abort the commit and report to the user. If no lint/format config exists, skip this step.
+- Always fix all lint/format errors before committing, even if they are unrelated to the current changes. Include those fixes in the same commit.
 
 ## 3. Stage Changes
 
