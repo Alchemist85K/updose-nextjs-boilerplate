@@ -5,7 +5,7 @@ A pre-configured Claude Code boilerplate for **TypeScript + Next.js + Tailwind C
 ## Installation
 
 ```bash
-npx updose add Alchemist85K/nextjs-boilerplate
+npx updose add Alchemist85K/updose-nextjs-boilerplate
 ```
 
 ## What's Included
